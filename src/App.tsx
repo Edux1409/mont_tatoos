@@ -3,30 +3,30 @@ import { motion, MotionValue, useScroll, useTransform } from 'framer-motion';
 import { ArrowUpRight, Instagram, MessageCircle } from 'lucide-react';
 
 const portraitUrl =
-  './pictures_tatoos/perfil2.png';
+  '/pictures_tatoos/perfil2.png';
 
 const marqueeImages = [
-  './pictures_tatoos/tatoo1.jpeg',
-  './pictures_tatoos/tatoo2.jpeg',
-  './pictures_tatoos/tatoo3.jpeg',
-  './pictures_tatoos/tatoo4.jpeg',
-  './pictures_tatoos/tatoo5.jpeg',
-  './pictures_tatoos/tatoo6.jpeg',
-  './pictures_tatoos/tatoo7.jpeg',
-  './pictures_tatoos/tatoo8.jpeg',
-  './pictures_tatoos/tatoo9.jpeg',
-  './pictures_tatoos/tatoo1.jpeg',
-  './pictures_tatoos/tatoo2.jpeg',
-  './pictures_tatoos/tatoo3.jpeg',
-  './pictures_tatoos/tatoo4.jpeg',
-  './pictures_tatoos/tatoo5.jpeg',
-  './pictures_tatoos/tatoo6.jpeg',
-  './pictures_tatoos/tatoo7.jpeg',
-  './pictures_tatoos/tatoo8.jpeg',
-  './pictures_tatoos/tatoo9.jpeg',
-  './pictures_tatoos/tatoo1.jpeg',
-  './pictures_tatoos/tatoo2.jpeg',
-  './pictures_tatoos/tatoo3.jpeg',
+  '/pictures_tatoos/tatoo1.jpeg',
+  '/pictures_tatoos/tatoo2.jpeg',
+  '/pictures_tatoos/tatoo3.jpeg',
+  '/pictures_tatoos/tatoo4.jpeg',
+  '/pictures_tatoos/tatoo5.jpeg',
+  '/pictures_tatoos/tatoo6.jpeg',
+  '/pictures_tatoos/tatoo7.jpeg',
+  '/pictures_tatoos/tatoo8.jpeg',
+  '/pictures_tatoos/tatoo9.jpeg',
+  '/pictures_tatoos/tatoo1.jpeg',
+  '/pictures_tatoos/tatoo2.jpeg',
+  '/pictures_tatoos/tatoo3.jpeg',
+  '/pictures_tatoos/tatoo4.jpeg',
+  '/pictures_tatoos/tatoo5.jpeg',
+  '/pictures_tatoos/tatoo6.jpeg',
+  '/pictures_tatoos/tatoo7.jpeg',
+  '/pictures_tatoos/tatoo8.jpeg',
+  '/pictures_tatoos/tatoo9.jpeg',
+  '/pictures_tatoos/tatoo1.jpeg',
+  '/pictures_tatoos/tatoo2.jpeg',
+  '/pictures_tatoos/tatoo3.jpeg',
 ];
 
 const decorativeImages = [
@@ -90,9 +90,9 @@ const projects = [
     category: 'Trabajo de Cliente',
     name: 'Manga Floral',
     images: [
-      './pictures_tatoos/tatoo1.jpeg',
-      './pictures_tatoos/tatoo2.jpeg',
-      './pictures_tatoos/tatoo3.jpeg',
+      '/pictures_tatoos/tatoo1.jpeg',
+      '/pictures_tatoos/tatoo2.jpeg',
+      '/pictures_tatoos/tatoo3.jpeg',
     ],
   },
   {
@@ -100,9 +100,9 @@ const projects = [
     category: 'Diseño Personalizado',
     name: 'Pieza Geométrica',
     images: [
-      './pictures_tatoos/tatoo4.jpeg',
-      './pictures_tatoos/tatoo5.jpeg',
-      './pictures_tatoos/tatoo6.jpeg',
+      '/pictures_tatoos/tatoo4.jpeg',
+      '/pictures_tatoos/tatoo5.jpeg',
+      '/pictures_tatoos/tatoo6.jpeg',
     ],
   },
   {
@@ -110,9 +110,9 @@ const projects = [
     category: 'Promoción Flash',
     name: 'Línea Minimalista',
     images: [
-      './pictures_tatoos/tatoo7.jpeg',
-      './pictures_tatoos/tatoo8.jpeg',
-      './pictures_tatoos/tatoo9.jpeg',
+      '/pictures_tatoos/tatoo7.jpeg',
+      '/pictures_tatoos/tatoo8.jpeg',
+      '/pictures_tatoos/tatoo9.jpeg',
     ],
   },
 ];
